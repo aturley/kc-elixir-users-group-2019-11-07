@@ -6,15 +6,21 @@ KC Elixir Users Group, 2019-11-07
 
 Andrew Turley
 
-github: @aturley
-
-twitter: @casio_juarez
-
 ---
 
 ## Information For This Talk
 
 https://github.com/aturley/kc-elixir-users-group-2019-11-07
+
+---
+
+## About Me
+
+Pony core team member
+
+Lead software engineer at Wallaroo Labs
+
+Using Pony for four years
 
 ---
 
