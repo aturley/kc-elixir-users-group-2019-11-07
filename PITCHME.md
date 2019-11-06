@@ -1,12 +1,14 @@
-# Pony Programming Language
+<!-- .slide: class="center" -->
 
-### KC Elixir Users Group, 2019-11-07
+## Pony Programming Language
 
-### Andrew Turley
+KC Elixir Users Group, 2019-11-07
 
-### githug: @aturley
+Andrew Turley
 
-### twitter: @casio_juarez
+github: @aturley
+
+twitter: @casio_juarez
 
 ---
 
