@@ -37,6 +37,14 @@ Pony is
 
 ---
 
+## No Data Races (this is the important part)
+
+Guaranteed a compile time
+
+No locks
+
+---
+
 ## Important Pony Concepts
 
 * actors
