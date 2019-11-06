@@ -82,7 +82,7 @@ Control what can be done with the alias, and make guarantees about what can be d
 
 ## Example
 
-[`examples/important-concepts`](examples/important-concepts)
+[`examples/important-concepts`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/important-concepts)
 
 ---
 
@@ -96,7 +96,7 @@ There are some important differences between Pony and BEAM-based languages
 
 Functions must either handle errors or propagate them out to their callers, behaviors MUST handle all errors
 
-[`examples/error-handling`](examples/error-handling)
+[`examples/error-handling`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/error-handling)
 
 ---
 
@@ -126,7 +126,7 @@ Actors communicate by sending messages to each other, there is no mechanism for 
 
 Mutable data can be passed between actors, reference capabilities ensure that this is done safely
 
-[`example/mutable-data`](example/mutable-data)
+[`examples/mutable-data`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/mutable-data)
 
 ---
 
@@ -164,7 +164,7 @@ readable and mutable
 
 other aliases can be readable and mutable
 
-[`examples/use-ref`](examples/use-ref)
+[`examples/use-ref`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/use-ref)
 
 ---
 
@@ -176,7 +176,7 @@ readable
 
 other aliases can only be readable
 
-[`examples/use-val`](examples/use-val)
+[`examples/use-val`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/use-val)
 
 ---
 
@@ -184,7 +184,7 @@ other aliases can only be readable
 
 `recover` creates a special block where an object can be created with a less restrictive ref cap and then it can be "lifted" to a more restrictive ref cap
 
-[`examples/use-recover`](examples/use-recover)
+[`examples/use-recover`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/use-recover)
 
 ---
 
@@ -198,7 +198,7 @@ can be used to send messages
 
 no restrictions on other aliases
 
-[`examples/use-tag`](examples/use-tag)
+[`examples/use-tag`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/use-tag)
 
 ---
 
@@ -210,7 +210,7 @@ readable and mutable
 
 no other readable or mutable aliases can exist
 
-[`examples/use-iso`](examples/use-iso)
+[`examples/use-iso`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/use-iso)
 
 ---
 
@@ -218,7 +218,7 @@ no other readable or mutable aliases can exist
 
 `consume` and destructive read allow an object to be unlinked from an alias
 
-[`examples/use-destructive-read`](examples/use-destructive-read)
+[`examples/use-destructive-read`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/use-destructive-read)
 
 ---
 
@@ -230,7 +230,7 @@ readable
 
 other readable and mutable aliases may exist
 
-[`examples/use-box`](examples/use-box)
+[`examples/use-box`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/use-box)
 
 ---
 
@@ -242,7 +242,7 @@ readable, mutable
 
 other readable aliases may exist, but no other mutable aliases may exist
 
-[`examples/use-trn`](examples/use-trn)
+[`examples/use-trn`](https://github.com/aturley/kc-elixir-users-group-2019-11-07/tree/master/examples/use-trn)
 
 ---
 
